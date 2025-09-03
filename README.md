@@ -1,3 +1,4 @@
 ﻿# Projet-Neige
 
-Learning project: a 2D Mario-style platformer game featuring a snowman as the main character.
+A 2D Mario-style platformer game featuring a snowman as the main character.
+
